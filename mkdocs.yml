@@ -1,0 +1,12 @@
+site_name: My Docs
+theme:
+  name: material
+  palette:
+    primary: amber
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+extra:
+  version:
+    method: mike
+
